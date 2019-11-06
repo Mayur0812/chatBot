@@ -1,0 +1,7 @@
+nltk
+tensorflow
+seaborn
+tensorflow_hub
+scipy
+pandas
+numpy
